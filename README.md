@@ -6,11 +6,15 @@ OpenAI API Example
 This is a simple example of how to use the OpenAI API to generate text based on a prompt.
 
 
+
+
 Prerequisites
 
 To use this code, you'll need to have an OpenAI API key. You can sign up for an API key here.
 
 You'll also need to have Python 3 installed on your machine.
+
+
 
 
 Installation
